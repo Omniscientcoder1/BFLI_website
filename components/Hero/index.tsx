@@ -80,10 +80,7 @@ const Hero = () => {
                 Bangladesh Finance Islamic
               </h1>
               <p className="text-base text-gray-700 dark:text-gray-300">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. At,
-                debitis consectetur nemo consequatur laboriosam porro
-                repellendus enim laborum vvolaptibuss laudantium impedit unde
-                non, repellat aliquid perspiciatis qui nobis. Eum, fugiat.
+              Bangladesh Finance Islamic is a dedicated Shariah-compliant financial initiative committed to offering ethical and innovative financial solutions tailored to the diverse needs of individuals and businesses. Rooted in the principles of Islamic Shariah, our services ensure transparency, fairness, and the avoidance of interest-based transactions. Through a wide array of products, including investment, deposit schemes, and financing options, we aim to empower clients with opportunities for growth while adhering to Islamic values. Bangladesh Finance Islamic is steadfast in its mission to support sustainable economic development and foster financial inclusion across the nation, ensuring that all our offerings align with the spiritual and financial aspirations of our valued clients.
               </p>
               <div className="mt-5">
                 <Link href="/about">

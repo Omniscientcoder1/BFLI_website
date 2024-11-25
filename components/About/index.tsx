@@ -35,7 +35,8 @@ export default function About() {
           <div className="container mx-auto px-4">
             <h2 className="text-center text-4xl font-bold text-orange-600 dark:text-orange-300 mb-8">OVERVIEW</h2>
             <p className="text-center text-lg text-black dark:text-white mb-16">
-              Complete suite of products and services that are designed to fulfill your financial needs in a truly Shariah-compliant way from the wide network of City Bank branches, sub-branches, and ATMs across the country.
+              
+Bangladesh Finance Islamic offers a comprehensive suite of Shariah-compliant financial products and services, meticulously designed to meet your financial needs ethically and responsibly. With a commitment to the principles of Islamic Shariah, we provide innovative and inclusive solutions through a growing network, ensuring accessibility and convenience for our valued clients across the country.
             </p>
 
             <div className="grid md:grid-cols-2 gap-8">
@@ -48,7 +49,9 @@ export default function About() {
               <div className="text-center">
                 <h3 className="text-2xl font-bold text-orange-600 dark:text-orange-300">Inception of BD Finance Islamic Banking</h3>
                 <p className="text-black dark:text-white mt-4">
-                  Islamic Banking is a financial system conducting banking and business activities in line with the provisions and principles of Islamic Shariah. It follows the beliefs and principles of Shariah jurisprudence pertaining to trade and business. The modern Islamic Banking industry emerged only in the 1970s, in large part because of efforts by early 20th-century Muslim economists who envisioned alternatives to conventional Western Economics, whose interest-based transactions violate Shariah.
+                
+Bangladesh Finance Islamic was established to provide Shariah-compliant financial solutions, aligning with the nation's growing demand for ethical banking practices. 
+ By offering a comprehensive suite of products and services, Bangladesh Finance Islamic aims to meet the diverse financial needs of its clients while adhering strictly to Islamic principles. This dedication underscores the institution's role in promoting ethical finance and contributing to the sustainable economic development of Bangladesh.
                 </p>
               </div>
             </div>
